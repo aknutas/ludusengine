@@ -3,7 +3,7 @@ ludusengine
 The _Ludus Engine_, an algorithm for creating gamification challenges for Computer-Supported Collaborative Learning (CSCL) environments.
 
 by _Antti Knutas, Rob van Roy, Timo Hynninen, Marco Granato, Jouni Ikonen and Jussi Kasurinen_  
-at _Lappeenranta University of Technology, KU Leuven and South-Eastern Finland University of Applied Sciences_
+at _Lappeenranta University of Technology, KU Leuven, University of Milan and South-Eastern Finland University of Applied Sciences_
 
 Introduction
 ----
