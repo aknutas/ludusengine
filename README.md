@@ -1,5 +1,7 @@
 ludusengine
 =====
+[![DOI](https://zenodo.org/badge/89173368.svg)](https://zenodo.org/badge/latestdoi/89173368)
+
 The _Ludus Engine_, an algorithm for creating gamification challenges for Computer-Supported Collaborative Learning (CSCL) environments.
 
 by _Antti Knutas, Rob van Roy, Timo Hynninen, Marco Granato, Jouni Ikonen and Jussi Kasurinen_  
