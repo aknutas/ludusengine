@@ -17,7 +17,8 @@ The repository has two directories: algorithm and python. algorithm directory ha
 
 Science!
 ----
-The publication is under review. Link and conference details will be published later in 2017.
+See further details in the following paper:
+Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. (2017). [Profile-Based Algorithm for Personalized Gamification in Computer-Supported Collaborative Learning Environments](http://ceur-ws.org/Vol-1956/GHItaly17_paper_07.pdf). In 1st Workshop on Games-Human Interaction (GHITALY 2017).
 
 We are open source and free software
 ----
